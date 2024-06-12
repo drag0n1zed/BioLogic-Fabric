@@ -1,10 +1,11 @@
 {
   "item.biologic.dna": "DNA",
   "item.biologic.prima_materia": "Prima Materia",
+  "item.biologic.magic_wand": "Magic wand",
 
-  "block.biologic.biotech_core": "Biotech Core",
-  "block.biologic.biotech_frame": "Biotech Frame",
-  "block.biologic.prima_materia_ore": "Prima Materia Ore",
+  "block.biologic.biotech_core": "Biotech core",
+  "block.biologic.biotech_frame": "Biotech frame",
+  "block.biologic.prima_materia_ore": "Prima Materia ore",
 
   "itemGroup.biologic": "BioLogic"
 }

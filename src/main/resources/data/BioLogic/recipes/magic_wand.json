@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WR ",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:ladder"
+    },
+    "R": {
+      "item":"minecraft:ladder"
+    }
+  },
+  "result": {
+    "item": "biologic:magic_wand",
+    "count": 4
+  }
+}

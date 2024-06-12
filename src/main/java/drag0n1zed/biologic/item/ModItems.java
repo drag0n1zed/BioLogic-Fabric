@@ -10,7 +10,7 @@ import net.minecraft.util.Identifier;
 public class ModItems {
     public static final Item DNA = registerItem("dna", new Item(new FabricItemSettings()));
     public static final Item PRIMA_MATERIA = registerItem("prima_materia", new Item(new FabricItemSettings()));
-
+    public static final Item MAGIC_WAND = registerItem("magic_wand", new Item(new FabricItemSettings()));
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(BioLogic.MOD_ID, name), item);
     }
